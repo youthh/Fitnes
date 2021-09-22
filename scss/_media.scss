@@ -1,0 +1,1093 @@
+@media (max-width: 1430px) {
+    
+    /*Top*/
+
+    .box__img {
+        width: 50%;
+    }
+
+    .dots {
+        right: 25px;
+        position: absolute;
+        top: 963px;
+    }
+
+    .scakal {
+        display: none;
+    }
+    
+}
+
+@media (max-width:1350px) {
+    
+    /*Top*/
+
+    .dots {
+        right: 6px;
+        top: 890px;
+    }
+
+    .ex {
+        bottom: -446px;
+    }
+
+    .decor__squre{
+        display: none;
+    }
+}
+
+
+
+@media (max-width:1250px) {
+    
+    /*Top*/
+
+    .dots {
+        right: 6px;
+        top: 849px;
+    }
+
+    .ex {
+        bottom: -376px;
+        left: 4px;
+    }
+
+    .top {
+        margin-bottom: 30px;
+    }
+
+
+    /*Services*/
+
+    .services {
+        margin-bottom: 213px;
+        
+    }
+
+    
+
+    /*Benefits*/
+
+    .healt__box-img{
+        min-height: 667px;
+        max-width: 556px;
+        width: 100%;
+    }
+
+    .dots__health{
+        display: none;
+    }
+
+    .rec2{
+        display: none;
+    }
+    
+
+    /*mood*/
+
+    .dots__mood {
+       
+        right: 2px;
+        bottom: -57px;
+    }
+    
+    .rec_testi{
+        display: none;
+    }
+
+
+    /*subscribe*/
+    .subscribe {
+        margin-bottom: 138px;
+        
+    }
+
+    /*footer*/
+
+    .colom{
+        max-width: 50%;
+    }
+
+    .footer__inner{
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .block_social{
+        margin: auto;
+    }
+
+    .colom1,
+    .colom2{
+        margin-bottom: 37px;
+    }
+}
+
+@media (max-width:1150px) {
+    
+    /*Top*/
+
+    .dots {
+       display: none;
+    }
+
+    .ex {
+        display: none;
+
+    }
+
+    .top {
+        padding-top: 140px;
+        min-height: 757px;
+    }
+
+    .subtitle {
+        margin-bottom: 20px;
+    }
+
+    .title {
+        font-size: 73px;
+        line-height: 80px;
+        margin-bottom: 14px;
+    }
+
+    .text {
+        
+        margin-bottom: 40px;
+    }
+
+    .logo_link {
+        margin-right: 72px;
+    }
+
+    .img_pers {
+      
+        top: 167px;
+        
+    }
+
+
+    /*testimonial*/
+
+    .prev_testi{
+        right: 70px;
+
+        &:hover{
+            right: 70px;
+        }
+    }    
+
+    .next_testi{
+        right: 35px;
+
+        &:hover{
+            right: 35px;
+        }
+    }
+
+    .testi__inner{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box__img-testi {
+        order: 1;
+    }
+    
+    .testi__content{
+        text-align: center;
+        padding-right: 0;
+        min-height: 250px;
+    }
+
+    .box__img-testi{
+        display: none;
+    }
+
+    .instructors {
+        margin-bottom: 154px;
+        position: relative;
+    }
+
+    .inner__box-comm {
+        left: 0;
+        text-align: left;
+    }
+
+    .yog {
+        position: absolute;
+        right: -150px;
+        top: -53px;
+    }
+
+    .rec_testi {
+        display: block;
+        top: 131px;
+
+    }
+
+    .testimonials {
+        min-height: 710px;
+    }
+
+    /*footer*/
+
+    .footer {
+ 
+        padding: 66px 54px 57px 61px;
+    }
+}
+
+
+@media (max-width:1050px) {
+    
+    /*Top*/
+
+    .img_pers {
+        width: 96%;
+        top: 10px;
+    }
+
+    .box__img {
+        
+        min-height: 700px;
+        width: 48%;
+    }
+
+    .btn_pl {
+        top: 273px;
+    }
+
+    .top {
+        margin-bottom: 156px;
+        min-height: 700px;
+    }
+
+
+    /*Services*/
+
+    .services__items {
+        width: 100%;
+    }
+
+
+    .services__item{
+        pointer-events: none;
+        min-height: 322px;
+    }
+
+    .setvices__item-link{
+        opacity: 1;
+    }
+
+    .title_services__item{
+        margin-bottom: 30px;
+    }
+
+    /*Benefits*/
+
+    .inner{
+        flex-direction: column;
+    }
+
+    .healt__box-img {
+        order: 1;
+    }
+
+    .health__content{
+        text-align: center;
+    }
+
+    .left__title{
+        margin: 0 auto 22px auto;
+    }
+
+    .healt__box-img {
+        margin-right: 0;
+    }
+
+    .health__content {
+        padding-bottom: 73px;
+        
+    }
+    
+    .gant {
+        bottom: 23px;
+        left: 7px;
+    }
+
+    /*mood*/
+
+    .dots__mood {
+        display: none;
+    }
+
+    .mood__box{
+        margin-left: 0;
+    }
+
+
+    /*instructors*/
+
+    .prev_instruct {
+        right: 45px;
+
+        &:hover{
+            right: 45px;
+        }
+    }
+
+    .next_instruct {
+        right: 15px;
+
+        &:hover{
+            right: 15px;
+        }
+    }
+}
+
+
+@media (max-width:1000px) {
+    
+    /*Top*/
+
+    .box__img{
+        display: none;
+    }
+
+    .top__inner{
+        justify-content: center;
+        text-align: center;
+    }
+
+    .subtitle{
+        margin: 0 auto 20px auto;
+    }
+
+    .top_content {
+        max-width: 449px;
+    }
+
+    .top {
+        margin-bottom: 120px;
+        min-height: 580px;
+    }
+
+    /*Header*/
+
+     .menu__item{
+        margin: 10;
+    }
+
+    .menu__list{
+        box-shadow: 0 5px 5px -5px #333;
+
+        display: block;
+        position: absolute;
+        left: 0;
+        background-color: #f7e8e8;
+        right: 0;
+        text-align: center;
+        padding: 40px 0;
+        transform: translateY(-1600px);
+        transition: all .4s;
+        z-index: 1000;
+        max-width: 1000px;
+        width: 100%;
+        li{
+            width: auto;
+            margin-right: 0;
+            margin-bottom: 15px;
+        }
+
+        a{
+            color: #000;
+        }
+    }
+
+
+    .menu__list.menu__list-active{
+        transform: translateY(-19px);
+        top: 80px;
+
+    }
+
+    .header.fixed .header__inner {
+        padding: 1px 0 1px 0;
+    }
+
+    .header.fixed{
+        padding: 0;
+    }
+    .header{
+        padding: 2px 0;
+        background-color: #f7e8e8;
+       
+        box-shadow: 0 0 8px rgba(0,0,0,0.5); /* Параметры тени */
+
+    }
+
+
+    /*Services*///////////////////////////////////////// 
+
+    .services {
+        margin-bottom: 135px;
+    }
+
+
+   /*Benefits*/
+
+   .btn_benefits{
+        margin: auto;
+        width: 220px;
+       
+    }
+    
+    .health {
+        margin-bottom: 138px;
+        position: relative;
+    }
+}
+
+@media (max-width:860px) {
+    .prev_instruct {
+        right: 40px;
+        &:hover{
+            right: 40px;
+        }
+    }
+
+    .next_instruct {
+        right: 10px;
+
+        &:hover{
+            right: 10px;
+        }
+
+        
+    }
+
+    /*Instructor*/
+
+    .instructors_squeres{
+        display: none;
+    }
+
+    .instructor_body {
+        position: absolute;
+        right: 0;
+        top: -46px;
+    }
+
+
+    /*Testimonials*/
+
+    .rec_testi {
+        display: none;
+    
+    }
+
+    .testimonials {
+        margin-bottom: 110px;
+        
+    }
+
+    .yog {
+        right: -76px;
+        
+    }
+
+
+    /*subscribe*/
+
+    .rec__sub {
+        display: none;
+    }
+
+    .body__sub {
+        display: none;
+    }
+
+    .run__sub {
+     
+        bottom: -131px;
+    }
+
+    .subscribe {
+        margin-bottom: 115px;
+        position: relative;
+    }
+
+
+    /*footer*/
+
+    .footer {
+        padding: 66px 14px 57px 20px;
+    }
+}
+
+
+@media (max-width:670px) {
+    
+    /*Services*/
+
+    .services {
+        margin-bottom: 170px;
+    }
+
+
+    /*Benefits*/
+    .img__pers_healt{
+        width: 85%;
+    }
+
+    .body {
+        top: -76px;
+        left: 18px;
+    }
+
+    .healt__box-img{
+        text-align: center;
+        min-height: 522px;
+
+    }
+
+    
+    .health {
+        margin-bottom: 127px;
+        
+    }
+
+    .mus__mood {
+        right: 16px;
+        top: -80px;
+    }
+
+    .gant {
+       display: none;
+    }
+
+    /*mood*/
+
+    .mood__box{
+        text-align: center;
+    }
+
+    img.img__pers_mood {
+        width: 87%;
+    }
+
+    .mood {
+        margin-bottom: 98px;
+    }
+
+    /*Instructor*/
+
+    .insttuctor__sc {
+        left: 5px;
+    }
+
+    .instructor_body {
+      
+        top: 180px;
+    }
+
+    .insttuctor__sc {
+        top: -68px;
+      
+    }
+
+
+    /*Testimonials*/
+
+    .yog {
+        right: 0px;
+    }
+
+    /*subscribe*/
+
+    .input {
+      
+        padding: 22px 140px 22px 32px;
+       
+    }
+
+
+
+
+}
+
+@media (max-width:540px) {
+    .box__comment {
+       
+        padding: 47px 33px 55px 37px;
+        
+    }
+
+    .inner__box-comm{
+        max-width: 442px;
+        min-height: 358px;
+        left: 20px;
+        bottom: -347px;
+    }
+
+    .comment {
+       
+        font-size: 20px;
+        line-height: 33px;
+        width: 500px;
+        width: 100%;
+    }
+
+    .testimonials {
+        min-height: 607px;
+    }
+
+    /*footer*/
+
+
+    .colom {
+        max-width: 100%;
+        margin-bottom: 35px;
+
+        &:last-child{
+            margin-bottom: 0;
+        }
+    }
+}
+
+
+@media (max-width:500px) {
+
+    /*Top0*///////////////////////////////////////
+    .top {
+        padding-top: 121px;
+        min-height: 550px;
+ 
+    }   
+
+    .title {
+        font-size: 68px;
+        line-height: 78px;
+        margin-bottom: 12px;
+    }
+
+    .btn,
+    .white_btn
+    {   
+        width: 202px;
+        display: block;
+        
+    }
+
+    .btn_benefits{
+        margin: auto;
+        width: 220px;
+       
+    }
+
+    .block__btn{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .text {
+        font-size: 20px;
+        line-height: 31px;
+        margin-bottom: 30px;
+    }
+
+    /*Services*/
+
+    .title_con {
+        font-size: 36px;
+        line-height: 53px;
+        max-width: 420px;
+    }
+
+
+
+    /*Benefits*/
+
+    .health {
+        margin-bottom: 70px;
+    }
+
+    .health__content {
+        padding-bottom: 44px;
+    }
+
+    .healt__box-img {
+        
+        min-height: 454px;
+    }
+
+    .health {
+        margin-bottom: 112px;
+    }
+
+    .btn__mood{
+        margin: auto;
+        width: 220px;
+    }
+
+
+    /*Testimonials*/
+
+    .inner__box-comm {
+       
+        left: 0px;
+        border-radius: 2px 83px 2px 2px;
+    }
+
+    .box__comment {
+        padding: 47px 10px 55px 30px;
+        margin-right: 0;
+    }
+
+    .comment {
+        font-size: 19px;
+        line-height: 31px;
+        width: 85%;
+        margin-bottom: 22px;   
+    }   
+    
+    
+    
+}   
+
+@media (max-width:450px) {
+    /*Top///////////////////////*/
+    .block__btn{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .btn{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .white_btn{
+        margin-bottom: 0;
+    }
+
+    .text {
+        max-width: 460px;
+        width: 100%;
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+    .title {
+        font-size: 60px;
+        line-height: 73px;
+        margin-bottom: 11px;
+    }
+
+    
+    /*Services*/
+
+   
+    .services__item.slick-slide {
+        width: 100%;
+    }
+
+    .subtitle_con {
+        font-size: 25px;
+        line-height: 39px;
+        margin-bottom: 19px;
+    }
+
+    .title_con {
+        font-size: 35px;
+        
+    }
+
+    .setrvices__content {
+        margin-bottom: 36px;
+    }
+
+    /*Benefits*/
+
+    .btn_benefits{
+        margin: auto;
+    }
+
+    .btn__mood{
+        margin: auto;
+    }
+
+    /*Instruct*/
+
+    .mood {
+        margin-bottom: 71px;
+    }
+
+    .instructor_body {
+        display: none;
+    }
+
+    .mood {
+        margin-bottom: 43px;
+    }
+
+    /*Testimonial*/
+
+    .cont_box-testi {
+        max-width: 374px;
+      
+    }
+
+    .comment {
+        
+        width: 100%;
+        
+    }
+
+    .testimonials {
+        margin-bottom: 53px;
+    }
+
+    .box__comment {
+        padding: 47px 5px 55px 24px;
+        margin-right: 0;
+    }
+    .inner__box-comm {
+       
+        bottom: -311px;
+    }
+
+
+    /*subscribe*/
+
+
+    .run__sub {
+
+        display: none;
+    }
+    
+}
+
+
+@media (max-width:380px) {
+
+    /*Top*////////////////////////////////////////////
+    .text {
+        max-width: 330px;
+        width: 100%;
+        font-size: 17px;
+        line-height: 28px;
+        margin-bottom: 30px;
+        margin: 0 auto 30px auto;   
+    }
+
+
+    .title {
+        font-size: 55px;
+        line-height: 71px;
+        margin-bottom: 11px;
+    }
+
+    .subtitle{
+        padding: 0px 24px 0 24px;
+        font-size: 24px;
+        line-height: 41px;
+        max-width: 200px;
+    }
+
+    /*Services*/
+
+    .title_con {
+        font-size: 30px;
+        line-height: 50px;
+
+    }
+
+    .subtitle_con {
+        font-size: 25px;
+        line-height: 39px;
+        margin-bottom: 7px;
+    }
+    .services {
+        margin-bottom: 135px;
+    }
+
+    /*Benefits*/
+
+    .health_title{
+        font-size: 28px;
+    }
+
+    .health {
+        margin-bottom: 20px;
+    }
+
+    .healt__box-img {
+        min-height: 392px;
+    }
+
+    /*Mood*/
+
+    .mus__mood {
+        display: none;
+    }
+
+    /*Testimonuals*/
+
+    .cont_box-testi {
+        max-width: 320px;
+        width: 100%;
+        min-height: 142px;
+    }
+
+    .inner__box-comm {
+        max-width: 338px;
+        min-height: 358px;
+        left: 20px;
+        bottom: -286px;
+        left: 6px;
+    }
+
+    .comment {
+     
+        width: 96%;
+        
+    }
+
+    .cont_box-testi {
+        max-width: 320px;
+    }
+
+    .instructors {
+        margin-bottom: 87px;
+    }
+
+    .insttuctor__sc {
+       display: none;
+    }
+
+    .yog {
+
+        display: none;
+    }
+
+    .testimonials {
+        min-height: 545px;
+    }
+
+
+    /*subscribe*/
+
+    .btn_sub{
+        position: unset;
+
+        margin-top: 15px;
+    }
+
+    .subscribe {
+        margin-bottom: 96px;
+       
+    }
+
+    .input {
+        padding: 22px 30px 22px 32px;
+    }
+
+    /*footer*/
+
+    .footer {
+        padding: 6px 14px 29px 20px;
+    }
+
+    .footer__inner{
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:350px) {
+
+    /*Top*/////////////////////////////////////////////////
+
+    .text {
+        max-width: 315px;
+        width: 100%;
+        font-size: 17px;
+        line-height: 27px;
+        margin-bottom: 28px;
+    }
+
+    .title {
+        font-size: 53px;
+        line-height: 66px;
+        margin-bottom: 9px;
+    }
+
+
+    /*Services*/
+
+    .subtitle_con {
+        font-size: 25px;
+        line-height: 39px;
+        margin-bottom: 4px;
+    }
+
+    /*Instructs*/
+
+    .mood {
+        margin-bottom: 27px;
+    }
+
+    .instruct__imgs {
+        
+        width: 88%;
+    }
+
+
+    /*Testimonial*/
+
+    .comment {
+        font-size: 17px;
+        line-height: 28px;
+        width: 100%;
+        margin-bottom: 22px;
+    }
+
+
+    .box_comment__name {
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 6px;
+    }
+
+    .cont_box-testi {
+        max-width: 274px;
+    }
+}
+
+@media (max-width:320px) {
+
+    /*Top*//////////////////////////////////////////////
+    
+    .text {
+        max-width: 315px;
+        
+    }
+
+    .top {
+        padding-top: 93px;
+        
+    }
+
+    .title {
+        font-size: 52px;
+        line-height: 66px;
+        margin-bottom: 9px;
+    }
+
+
+}
+
